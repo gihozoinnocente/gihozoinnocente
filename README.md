@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/innocente250" target="blank"><img src="https://img.shields.io/twitter/follow/innocente250?logo=twitter&style=for-the-badge" alt="innocente250" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://gihozoinnocente.vercel.app](https://gihozoinnocente.vercel.app)
 
 - 💬 Ask me about **Javascript,Nodejs,React**
 
